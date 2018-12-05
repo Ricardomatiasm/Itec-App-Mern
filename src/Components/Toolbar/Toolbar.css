@@ -1,0 +1,14 @@
+.toolbar_item a {
+    
+    text-decoration: none;
+    padding: 0 1rem;
+    font-size: 15px;
+
+}
+
+.toolbar_item a:hover,
+.toolbar_item a:active{
+    color: orange;
+    background-color: gray;
+       
+}
